@@ -14,7 +14,7 @@ import Portfolio from "@/components/Portfolio";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Premium Next.js & Flutter Solutions for Your Business",
+  title: "CognaByte | Innovative App, Web Development & Data Analysis Solutions",
   description: "Cognabyte offers high-performance Next.js development, Flutter app solutions, and data analysis to help startups and enterprises thrive."
   
   // other metadata
