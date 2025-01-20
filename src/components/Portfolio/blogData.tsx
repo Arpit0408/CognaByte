@@ -131,6 +131,34 @@ const blogData: Blog[] = [
     tags: ["https://realestatecognabyte.netlify.app/"], // Use a tag slug for navigation purposes
     publishDate: "2025",
   },
+   {
+    id: 10,
+    title: "Interor Design ",
+    paragraph:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+    image: "/images/10.png",
+    author: {
+      name: "Lethium Deo",
+      image: "/images/blog/author-03.png",
+      designation: "Graphic Designer",
+    },
+    tags: ["https://inspirecognabyteinteriordesign.netlify.app/"], // Use a tag slug for navigation purposes
+    publishDate: "2025",
+  },
+   {
+    id: 11,
+    title: "Navhome Stores interior design ",
+    paragraph:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+    image: "/images/11.png",
+    author: {
+      name: "Lethium Deo",
+      image: "/images/blog/author-03.png",
+      designation: "Graphic Designer",
+    },
+    tags: ["https://navhomestores.com/"], // Use a tag slug for navigation purposes
+    publishDate: "2025",
+  },
 ];
 
 export default blogData;
