@@ -129,7 +129,7 @@ const blogData: Blog[] = [
   },
    {
     id: 10,
-    title: "Interor Design ",
+    title: "Interior Design ",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
     image: "/images/10.png",
