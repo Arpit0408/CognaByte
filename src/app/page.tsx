@@ -10,6 +10,7 @@ import Pricing from "@/components/Pricing";
 import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import Portfolio from "@/components/Portfolio";
+import Analytics from "@/components/Anaytics/analysisportfolio";
 
 import { Metadata } from "next";
 
@@ -33,6 +34,7 @@ export default function Home() {
       <Testimonials />
       {/* <Pricing /> */}
       <Portfolio />
+      <Analytics />
       {/* <Blog /> */}
       <Contact />
     </>

@@ -12,7 +12,7 @@ const blogData: Blog[] = [
       image: "/images/1.png",
       designation: "Graphic Designer",
     },
-    tags: ["https://shopkro1.netlify.app/"], // Use a tag slug for navigation purposes
+    tags: ["https://shopkro1.netlify.app/"], // Ensure tags is an array
     publishDate: "2025",
   },
   {
@@ -43,9 +43,8 @@ const blogData: Blog[] = [
     tags: ["https://astrologydemo.netlify.app/"], // Use a tag slug for navigation purposes
     publishDate: "2025",
   },
-
   {
-    id: 5,
+    id: 4,
     title: "Crypto currency",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
@@ -58,9 +57,8 @@ const blogData: Blog[] = [
     tags: ["https://cryptoexchangeandcoin.netlify.app/"], // Use a tag slug for navigation purposes
     publishDate: "2025",
   },
-
   {
-    id: 4,
+    id: 5,
     title: "Bodhionsol",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
@@ -73,7 +71,6 @@ const blogData: Blog[] = [
     tags: ["https://bodhionsol.com/"], // Use a tag slug for navigation purposes
     publishDate: "2025",
   },
-
   {
     id: 6,
     title: "ADV. G. V. DESHMUKH",
@@ -88,10 +85,9 @@ const blogData: Blog[] = [
     tags: ["https://advgvdeshmukh.com/"], // Use a tag slug for navigation purposes
     publishDate: "2025",
   },
-
   {
-    id: 4,
-    title: "Vedio player",
+    id: 7,
+    title: "Video player",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
     image: "/images/7.png",
@@ -104,7 +100,7 @@ const blogData: Blog[] = [
     publishDate: "2025",
   },
   {
-    id: 4,
+    id: 8,
     title: "SIBASHISH A TRADER",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
@@ -119,7 +115,7 @@ const blogData: Blog[] = [
   },
   {
     id: 9,
-    title: "Realestate ",
+    title: "Realestate",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
     image: "/images/9.png",
