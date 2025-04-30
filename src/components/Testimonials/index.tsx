@@ -3,33 +3,56 @@ import SectionTitle from "../Common/SectionTitle";
 import SingleTestimonial from "./SingleTestimonial";
 
 const testimonialData: Testimonial[] = [
+ [
   {
     id: 1,
-    name: "Sarah Khan",
-    designation: "CEO @ vhjjh",
+    name: "Ravi Verma",
     content:
-      "Cognabyte's ability to deliver bug-free code and innovative solutions is unmatched. Their Next.js and Flutter development services are exceptional.",
+      "We partnered with Cognabyte for our agriculture-based web platform, and their team delivered a seamless solution using Next.js. The performance and speed of the site have exceeded expectations.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
   {
     id: 2,
-    name: "John Smith",
-    designation: "Tech Lead @InnovateX",
+    name: "Anjali Mehta",
     content:
-      "Working with Cognabyte has been a game-changer. Their data analysis insights have helped us make more informed decisions and optimize our strategies.",
+      "Cognabyte helped us build a mobile app for online learning using Flutter. Their attention to detail, clean code, and intuitive UI/UX really stood out. Highly recommended!",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
   {
     id: 3,
-    name: "Emily Davis",
-    designation: "Product Manager @TechFusion",
+    name: "Mohit Sharma",
     content:
-      "Cognabyte's Flutter and Next.js expertise enabled us to launch high-performance mobile apps and web applications. Highly recommend their services!",
+      "We needed data analytics support for our fintech dashboard, and Cognabyte delivered insights that truly helped refine our strategy. Their Python expertise was spot-on.",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
+  {
+    id: 4,
+    name: "Sneha Reddy",
+    content:
+      "The Cognabyte team built both our web and mobile apps from scratch. They used Flutter and React beautifully. Their project management and clarity in communication were a big plus.",
+    image: "/images/testimonials/auth-04.png",
+    star: 5,
+  },
+  {
+    id: 5,
+    name: "Aman Jaiswal",
+    content:
+      "We needed a scalable, fast, and bug-free platform for health tracking. Cognabyte delivered exactly that using Next.js and MongoDB. Their post-launch support is also excellent.",
+    image: "/images/testimonials/auth-05.png",
+    star: 5,
+  },
+  {
+    id: 6,
+    name: "Pooja Iyer",
+    content:
+      "Cognabyte's data analysis services helped us uncover hidden trends in customer behavior. Their reports and dashboards gave us a real edge in our marketing campaigns.",
+    image: "/images/testimonials/auth-06.png",
+    star: 5,
+  }
+
 ];
 
 const Testimonials = () => {
