@@ -21,7 +21,7 @@ const testimonialData: Testimonial[] = [
       "Cognabyte helped us build a mobile app for online learning using Flutter. Their attention to detail, clean code, and intuitive UI/UX really stood out. Highly recommended!",
     image: "/images/testimonials/auth-02.png",
     star: 5,
-    designation: "Product Manager, AgriTech",
+    : "Product Manager, AgriTech",
   },
   {
     id: 3,
@@ -30,6 +30,7 @@ const testimonialData: Testimonial[] = [
       "We needed data analytics support for our fintech dashboard, and Cognabyte delivered insights that truly helped refine our strategy. Their Python expertise was spot-on.",
     image: "/images/testimonials/auth-03.png",
     star: 5,
+    designation: "Product Manager, AgriTech",
   },
   {
     id: 4,
