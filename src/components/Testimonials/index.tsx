@@ -21,7 +21,7 @@ const testimonialData: Testimonial[] = [
       "Cognabyte helped us build a mobile app for online learning using Flutter. Their attention to detail, clean code, and intuitive UI/UX really stood out. Highly recommended!",
     image: "/images/testimonials/auth-02.png",
     star: 5,
-    : "Product Manager, AgriTech",
+     designation: "Product Manager, AgriTech",
   },
   {
     id: 3,
