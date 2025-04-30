@@ -51,7 +51,7 @@ const testimonialData: Testimonial[] = [
       "Cognabyte's data analysis services helped us uncover hidden trends in customer behavior. Their reports and dashboards gave us a real edge in our marketing campaigns.",
     image: "/images/testimonials/auth-06.png",
     star: 5,
-  }
+  },
 
 ];
 
