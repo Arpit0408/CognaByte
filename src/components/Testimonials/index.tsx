@@ -3,7 +3,6 @@ import SectionTitle from "../Common/SectionTitle";
 import SingleTestimonial from "./SingleTestimonial";
 
 const testimonialData: Testimonial[] = [
- [
   {
     id: 1,
     name: "Ravi Verma",
@@ -51,8 +50,7 @@ const testimonialData: Testimonial[] = [
       "Cognabyte's data analysis services helped us uncover hidden trends in customer behavior. Their reports and dashboards gave us a real edge in our marketing campaigns.",
     image: "/images/testimonials/auth-06.png",
     star: 5,
-  }
-
+  },
 ];
 
 const Testimonials = () => {
